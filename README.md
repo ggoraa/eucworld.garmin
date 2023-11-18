@@ -1,3 +1,7 @@
+# Notice of deprecation
+
+Yes, I haven't even had a chance to start working on porting this over to EUC World, but its dev, Seba, has already made a Garmin companion for it, so I'm pretty late to the game :(
+
 # ⌚️ Companion.Garmin 
 
 A WheelLog companion for Garmin smartwatches
